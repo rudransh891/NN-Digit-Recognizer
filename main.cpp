@@ -12,7 +12,7 @@ class neuralNetwork{
         std::vector<int> bias;
     public:
     neuralNetwork(std::string filename){
-
+        
     }
 
-}
+};
